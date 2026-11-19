@@ -1,0 +1,22 @@
+{
+  "name": "yaowang-v2",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 8201 --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --port 8201 --host 127.0.0.1",
+    "shots": "node scripts/shoot.mjs",
+    "validate": "node scripts/validate.mjs",
+    "validate:combat": "node scripts/validate-combat.mjs",
+    "perf": "node scripts/perf.mjs"
+  },
+  "dependencies": {
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.54.0",
+    "vite": "^7.0.0"
+  }
+}
