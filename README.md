@@ -4,7 +4,7 @@
 
 - [在线试玩](https://huhao121.github.io/yaowang-shigun/yaowang/)
 - [项目介绍和操作说明](https://huhao121.github.io/yaowang-shigun/)
-- [项目报告](https://huhao121.github.io/yaowang-shigun/report.pdf)
+- [项目报告](https://huhao121.github.io/yaowang-shigun/report/)
 - [游戏源码与运行说明](source/README.md)
 
 ## 本地运行
